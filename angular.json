@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GestionMedicalFront"
+    }
+  },
+  "defaultProject": "GestionMedicalFront",
+  "cli": {
+    "analytics": false
+  }
 }
